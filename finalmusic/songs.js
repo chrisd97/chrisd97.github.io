@@ -4,16 +4,16 @@
 */
 var songs = {
 	'1':{
-		song:"DJ Khaled - Do You Mind",
-		picture: "khaledMind"
+		song:"Hollywood Undead - Gravity",
+		picture: "Gravity"
 	},
 	'2':{
-		song:"Elton John - Mona Lisas And Mad Hatters",
-		picture: "EltonMona"
+		song:"Three Days Grace - I Hate Everything About You",
+		picture: "IHateEverythingAboutYou"
 	},
 	'3':{
-		song:"Journey - Faithfully",
-		picture: "JourneyFaith"
+		song:"Linkin Park - Breaking The Habit",
+		picture: "BreakingTheHabit"
 	}
 };
 
